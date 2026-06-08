@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khaledul Haque Dip.
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning golang and dart.
+- 🌱 I’m currently learning laravel.
 - 💞️ I’m looking to collaborate on golang projects.
 - 📫 How to reach me: khdip.ku@gmail.com
 
